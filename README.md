@@ -1,7 +1,3 @@
-# Nohello
-
-This is the source of [this](https://sbmueller.github.io/nohello/) website.
-
 ## Build
 
 There is a Github Action in place to deploy any changes to `index.md` to the
